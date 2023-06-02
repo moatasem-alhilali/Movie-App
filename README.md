@@ -38,22 +38,18 @@ flutter_bloc_boilerplate/
 ```
 ## Dependencies
 - `flutter_bloc`: <a target="_blank" href="https://pub.dev/packages/flutter_bloc">https://pub.dev/packages/flutter_bloc</a>
-- `path_provider`: <a target="_blank" href="https://pub.dev/packages/path_provider">https://pub.dev/packages/path_provider</a>
-- `equatable`: <a target="_blank" href="https://pub.dev/packages/equatable">https://pub.dev/packages/equatable</a>
-- `Fluttertoast`: <a target="_blank" href="https://pub.dev/packages/fluttertoast">https://pub.dev/packages/fluttertoast</a>
-- `flutter_svg`: <a target="_blank" href="https://pub.dev/packages/flutter_svg">https://pub.dev/packages/flutter_svg</a>
-- `shared preferences`: <a target="_blank" href="https://pub.dev/packages/shared_preferences">https://pub.dev/packages/shared_preferences</a>
-- `html`: <a target="_blank" href="https://pub.dev/packages/html">https://pub.dev/packages/html</a>
+- `shared_preferences`: <a target="_blank" href="https://pub.dev/packages/shared_preferences">https://pub.dev/packages/shared_preferences</a>
+- `hexcolor`: <a target="_blank" href="https://pub.dev/packages/hexcolor">https://pub.dev/packages/hexcolor</a>
+- `cached_network_image`: <a target="_blank" href="https://pub.dev/packages/cached_network_image">https://pub.dev/packages/cached_network_image</a>
 - `sqflite`: <a target="_blank" href="https://pub.dev/packages/sqflite">https://pub.dev/packages/sqflite</a>
 - `dio`: <a target="_blank" href="https://pub.dev/packages/dio">https://pub.dev/packages/dio</a>
 - `lottie`: <a target="_blank" href="https://pub.dev/packages/lottie">https://pub.dev/packages/lottie</a>
-- `readmore`: <a target="_blank" href="https://pub.dev/packages/readmore">https://pub.dev/packages/readmore</a>
-- `translator`: <a target="_blank" href="https://pub.dev/packages/translator">https://pub.dev/packages/translator</a>
 - `youtube_player_flutter`: <a target="_blank" href="https://pub.dev/packages/youtube_player_flutter">https://pub.dev/packages/youtube_player_flutter</a>
-- `image_picker`: <a target="_blank" href="https://pub.dev/packages/image_picker">https://pub.dev/packages/image_picker</a>
-- `url_launcher`: <a target="_blank" href="https://pub.dev/packages/url_launcher">https://pub.dev/packages/url_launcher</a>
-- `video_player`: <a target="_blank" href="https://pub.dev/packages/video_player">https://pub.dev/packages/video_player</a>
-- `connectivity_plus`: <a target="_blank" href="https://pub.dev/packages/connectivity_plus">https://pub.dev/packages/connectivity_plus</a>
+- `carousel_slider`: <a target="_blank" href="https://pub.dev/packages/carousel_slider">https://pub.dev/packages/carousel_slider</a>
+- `flutter_zoom_drawer`: <a target="_blank" href="https://pub.dev/packages/flutter_zoom_drawer">https://pub.dev/packages/flutter_zoom_drawer</a>
+- `carousel_slider`: <a target="_blank" href="https://pub.dev/packages/carousel_slider">https://pub.dev/packages/carousel_slider</a>
+- `flutter_spinkit`: <a target="_blank" href="https://pub.dev/packages/flutter_spinkit">https://pub.dev/packages/flutter_spinkit</a>
+- `google_nav_bar`: <a target="_blank" href="https://pub.dev/packages/google_nav_bar">https://pub.dev/packages/google_nav_bar</a>
 
 ## Getting Started
 This application is using api of <a target="_blank" href="https://www.themoviedb.org/">themoviedb</a>, so before using it you have to create an api from <a  target="_blank" href="https://www.themoviedb.org/">themoviedb</a> and generate an API and apply it to this application, follow the below step to connect api with this app.
